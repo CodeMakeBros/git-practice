@@ -1,1 +1,1 @@
-console.log('양의현');
+console.log('다시 바꾼다');
