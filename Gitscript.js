@@ -1,1 +1,1 @@
-console.log('김기홍');
+console.log('승현석만세!');
