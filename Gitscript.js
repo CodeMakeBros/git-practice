@@ -1,1 +1,1 @@
-console.log('승현석');
+console.log('승현석 만세!');
