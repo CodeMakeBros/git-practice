@@ -1,1 +1,1 @@
-console.log('찰스');
+console.log('찰수');
