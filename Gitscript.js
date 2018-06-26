@@ -1,1 +1,1 @@
-console.log('김기홍');
+console.log('두번째 깃 연습');
