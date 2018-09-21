@@ -1,1 +1,1 @@
-console.log('이민현');
+console.log('이민');
